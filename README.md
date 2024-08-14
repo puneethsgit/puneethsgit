@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
-- - 📄 My Resume [RESUME-link](https://drive.google.com/drive/folders/1MwkB5qQoDYJeu7qiO676WBFEW_S1Hky2?usp=drive_link)
+- 📄 My Resume [RESUME-link](https://drive.google.com/drive/folders/1MwkB5qQoDYJeu7qiO676WBFEW_S1Hky2?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://puneeths.vercel.app/)
 
