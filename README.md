@@ -9,13 +9,15 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
-- 👨‍💻 All of my projects are available at [puneeths.me](puneeths.me)
+- - 📄 My Resume [RESUME-link](https://drive.google.com/drive/folders/1MwkB5qQoDYJeu7qiO676WBFEW_S1Hky2?usp=drive_link)
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://puneeths.vercel.app/)
 
 - 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **puneethspunii@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MwkB5qQoDYJeu7qiO676WBFEW_S1Hky2?usp=drive_link](https://drive.google.com/drive/folders/1MwkB5qQoDYJeu7qiO676WBFEW_S1Hky2?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
