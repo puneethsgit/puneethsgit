@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puneeth S</h1>
-<h3 align="center">Due to the suspension of my previous account 'puneeths11' without any reason, the repository has been moved to this account</h3>
+<h4 align="center">Due to the suspension of my previous account 'puneeths11' without any reason, the repository has been moved to this account</h4>
 
 - 🌱 I’m currently learning **JAVA DSA, DevOps**
 
